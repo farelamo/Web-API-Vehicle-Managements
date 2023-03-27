@@ -1,11 +1,11 @@
 ## Web API Vehicles Management
-    Web API ini dapat memanajemen kendaraan yang ada di perusahaan yang terdiri dari 2 tipe, yaitu kendaraan angkutan barang dan angkutan orang. Web API ini juga dapat memonitoring mulai dari konsumsi BBM, jadwal service, dan riwayat pemakaian kendaraan.
-    Untuk dapat memakai kendaraan, pegawai (employee) diwajibkan untuk melakukan pemesanan terlebih dahulu ke pool atau bagian pengelola kendaraan (admin) dan pemakaian kendaraan harus diketahui atau disetujui oleh masing - masing atasan (spv admin dan spv employee).
+Web API ini dapat memanajemen kendaraan yang ada di perusahaan yang terdiri dari 2 tipe, yaitu kendaraan angkutan barang dan angkutan orang. Web API ini juga dapat memonitoring mulai dari konsumsi BBM, jadwal service, dan riwayat pemakaian kendaraan. Untuk dapat memakai kendaraan, pegawai (employee) diwajibkan untuk melakukan pemesanan terlebih dahulu ke pool atau bagian pengelola kendaraan (admin) dan pemakaian kendaraan harus diketahui atau disetujui oleh masing - masing atasan (spv admin dan spv employee).
 
 ## Additional Information
  - Database version Mysql 8.0.30
  - Laravel framework version 10
  - PHP version 8.1.10
+ - API Documentation : click here 👋(https://documenter.getpostman.com/view/23104540/2s93RNzb44)
 
 ## Login Access
  - Superadmin
